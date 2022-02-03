@@ -1,0 +1,1 @@
+g++ -std=c++17 ../sharedheader.hpp serverheader.hpp server.cpp -lpthread -o server -Wno-pointer-arith
