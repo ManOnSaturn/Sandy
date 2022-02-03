@@ -1,6 +1,6 @@
 # Sandy
 
-Sandy is a shell application that makes the sharing of any file faster and self-hosted. It uses multi-threading to beat commonly used alternatives as FTP.
+Sandy is a command line application that makes the sharing of any file faster and self-hosted. It uses multi-threading to beat commonly used alternatives as FTP.
 Often, file sharing services impose file sizes limits and a limit on the number of files you can share. With this tool, you can share files with your friends, colleagues or project mates much faster, especially when the files get bigger!
 
 ## How to get started
